@@ -1,6 +1,7 @@
 # blog
 
 > this is a blog project
+> use VUE2.0 and webpack
 
 ## Build Setup
 
